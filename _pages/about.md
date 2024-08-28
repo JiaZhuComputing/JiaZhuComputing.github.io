@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<span style="color: orange">***I study the underrecognized experiences and pathways for broadening participation***</span>.
-
+<span style="color: yellow">*I study the underrecognized experiences and pathways for broadening participation*</span>
+=====
 I am a Post Doctoral Scholar for the [LEARN-CS research group](https://moniqueross.com) in the [Department of Engineering Education](https://eed.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu). Before joining OSU, I earned a doctoral degree in Computer Science and a master's degree in Data Science with a concentration in computational data analytics from the [Knight Foundation School of Computing and Information Science (KFSCIS)](https://www.cis.fiu.edu) at [Florida International University (FIU)](https://www.fiu.edu). I also hold B.S. and M.S. degrees in Hospitality Management from the [Chaplin School of Hospitality and Tourism Management](https://hospitality.fiu.edu/) at FIU. My research interests include computing education, engineering education, educational data mining, and data science. 
     
 Research
@@ -20,14 +20,14 @@ News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+#Getting started
+#======
+#1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+#1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the #top right. 
+#1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename #the repository "[your GitHub username].github.io", which will also be your website's URL.
+#1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs]#(http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) #for a user with the username "getorg-testacct")
+#1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub #username].github.io/files/example.pdf.  
+#1. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
