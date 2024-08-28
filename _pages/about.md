@@ -15,7 +15,8 @@ I earned a doctoral degree in Computer Science with a research focus on computin
     
 Research
 ======
-My work aims at broadening participation with a focus on exploring computing access points for women, improving the computing educational experience, and creating an inclusive computing ecosystem. During my years as a Ph.D. student, I have been a graduate research assistant for Dr. Monique Ross and have published nine papers at annual conferences, including the American Society of Engineering Education (ASEE), IEEE Frontiers in Education Conference (FIE), ACM Conferences on International Computing Education (ICER), and the ACM Technical Symposium on Special Interest Group on Computer Science Education (SIGCSE). I have also been awarded the National Science Foundation (NSF) INTERN grant to conduct a research internship with the Journal of Engineering Education (JEE). During this internship, I explore Diversity, Equity, and Inclusion (DEI) trends within JEE publications to support the broadening participation mission of JEE's strategic planning.
+As a computing education researcher, I utilize mixed methods and computational methods to explore *underrecognized experiences* and *pathways* to <u>broadening participation</u> in computing. My work aims to expand computing access points for women, improve the computing educational experience, and create an inclusive computing ecosystem. My research has been published in leading venues in computing education and engineering education, including the ACM Conferences on International Computing Education (ICER), the ACM Technical Symposium on Special Interest Group on Computer Science Education (SIGCSE), American Society of Engineering Education (ASEE), and IEEE Frontiers in Education Conference (FIE). I have also been awarded the National Science Foundation (NSF) INTERN grant in 2023 to conduct a research internship with the Journal of Engineering Education (JEE). 
+
 
 News
 ======
