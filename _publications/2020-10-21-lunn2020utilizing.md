@@ -6,7 +6,7 @@ permalink: /publication/lunn2020Utilizing
 excerpt: 'This research full paper describes how web scraping and natural language processing can be utilized to answer complex questions in computer science education.'
 date: 2020-10-21
 venue: '2020 IEEE Frontiers in Education Conference (FIE)'
-paperurl: 'http://JiaZhuResearch.github.io/files/lunn2020Utilizing.pdf'
+paperurl: 'http://JiaZhuResearch.github.io/files/lunn2020utilizing.pdf'
 citation: 'Lunn, S., Zhu, J., & Ross, M. (2020, October). Utilizing web scraping and natural language processing to better inform pedagogical practice. In 2020 IEEE Frontiers in Education Conference (FIE) (pp. 1-9). IEEE.'
 ---
 
