@@ -1,7 +1,9 @@
 ---
-title: "Studying Underrecongized Experiences"
-excerpt: "Short description of portfolio item number 1"
+title: "Studying Underrecongized Experiences in Engineering and Computing Education"
+excerpt: "Shed lights on underrecognized students' experiences in engineering and computing education"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Some students' experiences are still missing out on the dominant narratives in engineering and computing education. This work aims to shed light on those underrecognized experiences in the current research foci in engineering and computing education to holistically seek solutions with an asset-based approach for broadening participation efforts. 
+* Understanding The Experiences Of Non-Computing Women's Transitions Into Computing Careers: this study explores students who, later in their life trajectories, would like to explore computing without computing backgrounds.
+* Characterizing the postdoctoral experiences in engineering and computing education
