@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:orange">"***She studies the underrecognized experiences and pathways for broadening participation***"</span>
+<span style="color:orange">>***She studies the underrecognized experiences and pathways for broadening participation***</span>
 
 Hi! I am Jia, a Postdoctoral Scholar for the [LEARN-CS research group](https://moniqueross.com) in the [Department of Engineering Education](https://eed.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu). My research interest is in exploring and studying the underrecognized experiences and pathways for broadening participation in computing. I engage with computing education, engineering education, STEM education, and educational data mining communities.
 
