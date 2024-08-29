@@ -1,5 +1,5 @@
 ---
-title: "Studying Underrecongized Experiences in Engineering and Computing Education"
+title: "Studying Underrecongized Experiences"
 excerpt: "Shed lights on underrecognized students' experiences in engineering and computing education"
 collection: portfolio
 ---
