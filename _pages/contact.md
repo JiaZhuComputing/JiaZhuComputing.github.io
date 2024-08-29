@@ -3,7 +3,8 @@ permalink: /contact/
 title: "Contact"
 author_profile: true
 ---
-Contact information is below, including email and various web services. Here are some other places on the Internet where I reside.
+Here are some other places on the Internet where I reside.
+Please reach out to me by email.
 
 * E-mail: zhu.3716@osu.edu
 * Twitter: [JiaZhuCSER](https://x.com/JiaZhuCSER)
