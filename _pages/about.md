@@ -20,8 +20,9 @@ As a computing education researcher, I utilize mixed methods and computational m
 
 News
 ------
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- ***July 2024***: &nbsp;🎉 I start working as a postdoctoral scholar for the LEARN-CS research group in the Department of Engineering Education at The Ohio State University. 
+- ***April 2024***: &nbsp;🎉 I have officially graduated with my Ph.D. in Computer Science focused on Computing Education Research from the Knight Foundation School of Computing and Information Science (KFSCIS), Florida International University.
+- ***March 2024***: &nbsp;🎉 I have successfully defended my doctoral dissertation *"Never Too Late: Understanding The Experiences Of Non-Computing Women's Transitions Into Computing Careers"*. 
 
 More information
 ------
