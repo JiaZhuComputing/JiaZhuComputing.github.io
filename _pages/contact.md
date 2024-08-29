@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact"
 author_profile: true
---
+---
 Contact information is below, including email and various web services. Here are some other places on the Internet where I reside.
 
 * E-mail: zhu.3716@osu.edu
