@@ -8,7 +8,7 @@ redirect_from:
 ---
 Hi! I am Jia, a Postdoctoral Scholar for the [LEARN-CS research group](https://moniqueross.com) in the [Department of Engineering Education](https://eed.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu). My research interest is in exploring and studying the underrecognized experiences and pathways for broadening participation in computing. I engage with computing education, engineering education, STEM education, and educational data mining communities. 
 
-###<span style="color:orange">*I study the underrecognized experiences and pathways for broadening participation*</span>
+<span style="color:orange">***I study the underrecognized experiences and pathways for broadening participation***</span>
 
 I received my Ph.D. in Computer Science with a research focus on computing education with [Dr. Monique Ross](https://people.engineering.osu.edu/people/ross.1982) and a master's degree in Data Science with a concentration in computational data analytics from the [Knight Foundation School of Computing and Information Science (KFSCIS)](https://www.cis.fiu.edu) at [Florida International University (FIU)](https://www.fiu.edu). Before transitioning into computing and computing education research, I spent years conducting research and developing training programs in the hospitality industry. I also hold B.S. and M.S. degrees in Hospitality Management from the [Chaplin School of Hospitality and Tourism Management](https://hospitality.fiu.edu/) at FIU. 
     
