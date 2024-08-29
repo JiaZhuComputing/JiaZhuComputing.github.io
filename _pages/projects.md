@@ -3,6 +3,7 @@ permalink: /projects/
 title: "Projects"
 author_profile: true
 ---
+
 This is the page discussing the various projects
 * Studying Underrecognized Experiences in Engineering and Computing Education
   * Understanding The Experiences Of Non-Computing Women's Transitions Into Computing Careers
