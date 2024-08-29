@@ -23,6 +23,6 @@ News
 - ***April 2024***: &nbsp;🎉 I have officially graduated with my Ph.D. in Computer Science focused on Computing Education Research from the Knight Foundation School of Computing and Information Science (KFSCIS), Florida International University.
 - ***March 2024***: &nbsp;🎉 I have successfully defended my doctoral dissertation *"Never Too Late: Understanding The Experiences Of Non-Computing Women's Transitions Into Computing Careers"*. 
 
-%More information
+
 
 
