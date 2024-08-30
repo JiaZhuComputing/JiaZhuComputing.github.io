@@ -7,7 +7,7 @@ excerpt: 'This research paper conducted a content analysis on publicly available
 date: 2023-03-02
 venue: 'Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3545945.3569798'
-citation: 'Zhu, J., Lunn, S. J., & Ross, M. (2023, March). Characterizing women's alternative pathways to a computing career using content analysis. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (pp. 158-164).'
+citation: 'Zhu, J., Lunn, S. J., &quot Ross, M. (2023, March). Characterizing women's alternative pathways to a computing career using content analysis. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (pp. 158-164).'
 ---
 
 
