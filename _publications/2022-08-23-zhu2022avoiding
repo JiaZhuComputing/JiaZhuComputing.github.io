@@ -1,0 +1,33 @@
+---
+title: "Avoiding Barriers: A Literature Review on the Alternative Pathways for Women in Computer Science"
+collection: publications
+category: conferences
+permalink: /publication/zhu2022avoiding
+excerpt: 'This paper assesses the landscape of literature related to pathways for women entering CS at any point after their earned undergraduate degree (in another field) and identify any gaps in current research.'
+date: 2022-08-23
+venue: '2022 ASEE Annual Conference & Exposition'
+paperurl: 'https://www.researchgate.net/profile/Jia-Zhu-24/publication/362135905_Avoiding_Barriers_A_Literature_Review_on_the_Alternative_Pathways_for_Women_in_Computer_Science/links/6317457facd814437f0a8598/Avoiding-Barriers-A-Literature-Review-on-the-Alternative-Pathways-for-Women-in-Computer-Science.pdf'
+#citation: 'Jia Zhu, Stephanie J. Lunn, and Monique Ross. 2023. Characterizing Women's Alternative Pathways to a Computing Career Using Content Analysis. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023). Association for Computing Machinery, New York, NY, USA, 158–164. https://doi.org/10.1145/3545945.3569798'
+---
+
+Abstract
+---
+Challenges remain in fulfilling skilled professionals to meet the growing demand for the computing
+workforce. Computer and information technology occupations are projected to grow at an aboveaverage rate of 13% from 2020 to 2030. To meet the need for computer science jobs, the computer
+science education research (CSER) community has explored pedagogical theories and practices to
+prepare students for careers in the field. However, the focus has been on populations of students at
+K-12 and/or college levels who have gone through several years of development before they can
+enter the workforce. The study of alternative pathways to computer science is facing an urgent
+need and presents a faster solution to allow the working-age population to advance careers in this
+field. This is especially true for women, who have traditionally been underrepresented in this area
+due to the prevalence of gender disparities in computing.
+
+Therefore, this article presents a review of the literature on pathways for women entering computer
+science (CS) after earning a degree in another discipline. Through this review, we assess the
+landscape of literature related to pathways for women entering CS at any point after their earned
+undergraduate degree (in another field) and identify any gaps in current research. Our results
+suggest that coding bootcamps and second-degree programs are the common alternative pathways
+presented in the literature. The results indicate that there is a lack of rigorous studies in this area
+since limited research methods have been applied and very few of the studies included theoretical
+frameworks. In addition, this review will shed light on the challenges and implications of women’s
+alternative pathways to CS, to better understand and avoid the barriers to broadening participation.
