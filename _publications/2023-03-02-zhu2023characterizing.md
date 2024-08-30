@@ -6,8 +6,8 @@ permalink: /publication/zhu2023characterizing
 excerpt: 'This research paper conducted a content analysis on publicly available job profiles to characterize the types and features of alternative pathways commonly chosen by women in the U.S.'
 date: 2023-03-02
 venue: 'Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1'
-paperurl: 'http://JiaZhuResearch.github.io/files/zhu2021the.pdf'
-citation: 'Zhu, J., Zerbe, E., Ross, M. S., & Berdanier, C. G. P. (2021). The Stated and Hidden Expectations: Applying Natural Language Processing Techniques to Understand Postdoctoral Job Postings. ASEE Annual Conference and Exposition, Conference Proceedings.'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3545945.3569798'
+citation: 'Zhu, J., Lunn, S. J., & Ross, M. (2023, March). Characterizing women's alternative pathways to a computing career using content analysis. In Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 1 (pp. 158-164).https://doi.org/10.1145/3545945.3569798.'
 ---
 
 
