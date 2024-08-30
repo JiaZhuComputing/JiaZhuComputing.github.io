@@ -7,7 +7,7 @@ excerpt: 'This research full paper describes how web scraping and natural langua
 date: 2020-10-21
 venue: '2020 IEEE Frontiers in Education Conference (FIE)'
 paperurl: 'http://JiaZhuResearch.github.io/files/lunn2020utilizing.pdf'
-citation: 'S. Lunn, J. Zhu & M. Ross, "Utilizing Web Scraping and Natural Language Processing to Better Inform Pedagogical Practice," 2020 IEEE Frontiers in Education Conference (FIE), Uppsala, Sweden, 2020, pp. 1-9, doi: 10.1109/FIE44824.2020.9274270.'
+#citation: 'S. Lunn, J. Zhu & M. Ross, "Utilizing Web Scraping and Natural Language Processing to Better Inform Pedagogical Practice," 2020 IEEE Frontiers in Education Conference (FIE), Uppsala, Sweden, 2020, pp. 1-9, doi: 10.1109/FIE44824.2020.9274270.'
 ---
 
 Abstract
