@@ -1,5 +1,5 @@
 ---
-title: "Characterizing Women&'s Alternative Pathways to a Computing Career Using Content Analysis"
+title: "Characterizing Women Alternative Pathways to a Computing Career Using Content Analysis"
 collection: publications
 category: conferences
 permalink: /publication/zhu2023characterizing
