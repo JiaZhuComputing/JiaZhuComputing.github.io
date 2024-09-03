@@ -7,7 +7,7 @@ excerpt: 'This paper reviews the application of Schlossberg's transition theory 
 date: 2023-10-18
 venue: '2023 IEEE Frontiers in Education Conference (FIE)'
 paperurl: 'http://JiaZhuResearch.github.io/files/zhu2023investgating.pdf'
-#citation: 'J. Zhu, M. Ross and J. Battern, "Investigating Women's Learning Experiences in Computing Through the Lens of Schlossberg's Transition Theory," 2023 IEEE Frontiers in Education Conference (FIE), College Station, TX, USA, 2023, pp. 1-8, doi: 10.1109/FIE58773.2023.10342934.'
+#citation: ''
 ---
 
 Abstract
