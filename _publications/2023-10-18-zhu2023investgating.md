@@ -6,7 +6,7 @@ permalink: /publication/zhu2023investgating
 excerpt: 'This paper reviews the application of Schlossberg's transition theory in understanding the learning experiences of women in computing.'
 date: 2023-10-18
 venue: '2023 IEEE Frontiers in Education Conference (FIE)'
-paperurl: 'http://JiaZhuResearch.github.io/files/zhu2023investgating.pdf'
+#paperurl: 'http://JiaZhuResearch.github.io/files/zhu2023investgating.pdf'
 #citation: ''
 ---
 
