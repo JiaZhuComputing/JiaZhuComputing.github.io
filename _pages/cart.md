@@ -12,6 +12,7 @@ This collection is more than just a list - it’s a personal resource curated ov
 Theories
 ===
 * Boundary Spanning
+* Figured World
 * Intersectionality
 * Schlossburgs' Transition Theory
 * Social Cognitive Career Theory (SCCT) and its Career Self-management Model (CSM)
