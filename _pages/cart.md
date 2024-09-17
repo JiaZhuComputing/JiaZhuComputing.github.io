@@ -14,7 +14,7 @@ Theories
 * Boundary Spanning
 * Intersectionality
 * Schlossburgs' Transition Theory
-* Social Cognitive Career Theory and its Career Self-management Model
+* Social Cognitive Career Theory (SCCT) and its Career Self-management Model (CSM)
   
 
 
