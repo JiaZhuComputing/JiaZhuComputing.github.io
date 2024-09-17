@@ -27,7 +27,7 @@ author:
   bio              : "Computing & Engineering Education Researcher <br> <br> Postdoctoral Scholar at <a style='color: black;' href='http://moniqueross.com'>the LEARN-CS Research Group</a>"
   location         : #"Earth"
   employer         : "The Ohio State University"
-  uri              : "https://people.engineering.osu.edu/people/zhu.3716"
+  uri              : #"https://people.engineering.osu.edu/people/zhu.3716"
   email            : "zhu.3716@osu.edu" 
 
   # Academic websites
