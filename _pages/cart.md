@@ -16,8 +16,6 @@ Theories
 * Intersectionality
 * Schlossburgs' Transition Theory
 * Social Cognitive Career Theory (SCCT) and its Career Self-management Model (CSM)
-  
-
 
 Methods
 ===
@@ -29,6 +27,7 @@ Methods
 **Quantitative Approaches**
 * Factor Analysis
 * Regression Models
+* Structural Equation Modeling (SEM)
 
 **Mixed-Method Approaches**
 * Exploratory Sequential Method
