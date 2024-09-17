@@ -1,5 +1,5 @@
 ---
-permalink: /research_cart/
+permalink: /cart/
 title: "Research Cart"
 author_profile: true
 ---
