@@ -27,7 +27,7 @@ main:
     #url: /markdown/
 
   - title "My Research Cart"
-    url: /research_cart/
+    url: /cart/
 
   - title: "Contact"
     url: /contact/
