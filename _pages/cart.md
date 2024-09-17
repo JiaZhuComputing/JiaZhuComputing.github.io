@@ -3,7 +3,7 @@ permalink: /cart/
 title: "Research Cart"
 author_profile: true
 ---
-Imagine my research journey as a trip through a vast, intellectual marketplace. I collect theories and methods in my ***research cart***, much like adding items to a *shopping cart*. Each theory or method added to this cart represents a piece of knowledge that may or may not fit into my current project, but I know its value could become clear down the road. 
+Imagine my research journey as a trip through a vast, intellectual marketplace. I collect theories and methods in my ***research cart***, much like adding items to a ***shopping cart***. Each theory or method added to this cart represents a piece of knowledge that may or may not fit into my current project, but I know its value could become clear down the road. 
 
 It is a growing collection of knowledge in computing & engineering education, filled with ideas that I can circle back to as I evolve as a researcher. It is a personal resource curated over time where each item holds the potential to shape future projects.
 
