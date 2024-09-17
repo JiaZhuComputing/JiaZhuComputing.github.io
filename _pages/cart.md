@@ -1,6 +1,6 @@
 ---
 permalink: /cart/
-title: "Cart"
+title: "Research Cart"
 author_profile: true
 ---
 
