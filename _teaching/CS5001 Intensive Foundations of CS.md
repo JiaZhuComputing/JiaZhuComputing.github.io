@@ -2,7 +2,7 @@
 title: "CS5001 Intensive Foundations of CS"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-Fall-CS5001
+permalink: /teaching/CS5001 Intensive Foundations of CS
 venue: "Northeastern University, Khoury College of Computer Science"
 date: 2025-09-01
 location: "Miami, Florida"
