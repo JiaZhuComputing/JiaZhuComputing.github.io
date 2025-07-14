@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:orange">"**She teaches with equity in mind and studies the underrecognized pathways into computing education**"</span>
+<span style="color:orange">"***She teaches with equity in mind and studies the underrecognized pathways into computing education***"</span>
 
 Hi there! I’m Jia — an Assistant Teaching Professor at [Northeastern University’s Khoury College of Computer Sciences](https://www.khoury.northeastern.edu/). I’m passionate about making computing education more inclusive, human-centered, and accessible to all. Before this position, I was a Postdoctoral Scholar for the [LEARN-CS research group](https://moniqueross.com) in the [Department of Engineering Education](https://eed.osu.edu/) at [The Ohio State University (OSU)](https://www.osu.edu). My research interest is in exploring and studying the underrecognized experiences and pathways for broadening participation in computing and engineering. I engage with computing education, engineering education, STEM education, data science, and educational data mining communities.
 
