@@ -14,7 +14,7 @@ I received my Ph.D. in Computer Science with a research focus on computing educa
 
 News
 ------
-- ***July 2025***: &nbsp;🎉 I will be joining the Khoury College of Computer Sciences at Northeastern University's Miami campus as an Assistant Teaching Professor beginning Fall 2025. 
+<small>- ***July 2025***: &nbsp;🎉 I will be joining the Khoury College of Computer Sciences at Northeastern University's Miami campus as an Assistant Teaching Professor beginning Fall 2025.<small> 
 - ***Feburary 2025***: &nbsp;🎉 I presented our project "[Going National: Exploring the Employability and Salary Insights from Bachelor of Arts and Bachelor of Science in Computer Science Degrees for Broadening Participation](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-lightning-talks/16/Going-National-Exploring-the-Employability-and-Salary-Insights-from-Bachelor-of-Arts)" at ACM SIGCSE conference in Pittsburgh, PA.
 - ***July 2024***: &nbsp;🎉 I start working as a postdoctoral scholar for the LEARN-CS research group in the Department of Engineering Education at The Ohio State University.
 - ***April 2024***: &nbsp;🎉 I have officially graduated with my Ph.D. in Computer Science focused on Computing Education Research from the Knight Foundation School of Computing and Information Science (KFSCIS), Florida International University.
