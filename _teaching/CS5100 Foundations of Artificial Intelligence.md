@@ -2,7 +2,7 @@
 title: "CS5100 Foundations of Artificial Intelligence"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2025-Fall-CS5100
+permalink: /teaching/CS5100 Foundations of Artificial Intelligence
 venue: "Northeastern University, Khoury College of Computer Science"
 date: 2025-09-01
 location: "Miami, Florida"
