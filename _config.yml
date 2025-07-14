@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jia Zhu"
+title                    : "Jia Zhu, Ph.D."
 title_separator          : "-"
-name                     : &name "Jia Zhu"
-description              : &description "Computing & Engineering Education Researcher"
-URL                      : "https://JiaZhuResearch.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jia Zhu, Ph.D."
+description              : &description "Assistant Teaching Professor/Computing & Engineering Education Researcher"
+URL                      : "https://JiaZhuComputing.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "JiaZhuResearch/JiaZhuResearch.github.io"
+repository               : "JiaZhuComputing/JiaZhuComputing.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "jia_headshot.png"
   name             : "Zhu, Jia (朱葭)"
-  pronouns         : "she/her"  
-  bio              : "Computing & Engineering Education Researcher <br> <br> Postdoctoral Scholar at <a style='color: black;' href='http://moniqueross.com'>the LEARN-CS Research Group</a>"
+  pronouns         : "she/her/hers"  
+  bio              : "Assistant Teaching Professor/Computing & Engineering Education Researcher <br> <br> Assistant Teaching Professor at <a style='color: black;' href='http://moniqueross.com'>Khoury College of Computer Science</a>"
   location         : #"Earth"
-  employer         : "The Ohio State University"
+  employer         : "Northeastern University"
   uri              : #"https://people.engineering.osu.edu/people/zhu.3716"
-  email            : "zhu.3716@osu.edu" 
+  email            : "j.zhu1@northeastern.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -78,9 +78,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Selected Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Selected Conference Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
