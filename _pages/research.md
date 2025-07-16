@@ -14,7 +14,7 @@ As a computing education researcher, I utilize a broad range of quantitative, qu
     
 ### Exploring Pathways for Broadening Participation in Computing
  * Categorizing the alternative pathways for non-computing women transitioning into computing careers
- * Cracking the diversity: understanding computing pathways of those least represented
+ <!--* Cracking the diversity: understanding computing pathways of those least represented -->
  * Investigating the implications on employability of the Bachelor of Arts in CS program: a potential additional undergraduate pathway to Computing
     
 ### Computational Methods in Engineering and Computing Education Research
