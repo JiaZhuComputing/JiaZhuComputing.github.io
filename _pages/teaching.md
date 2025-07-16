@@ -18,6 +18,3 @@ Rooted in pragmatism and social constructivism, my teaching empowers students wi
 ### Assistant Teaching Professor at Northeastern University, Khoury College of Computer Sciences
 - Intensive Foundations of Computer Science | Fall 2025
 - Graduate Foundations of AI | Fall 2025
-<!-- {% for post in site.teaching reversed %} -->
-<!-- {% include archive-single.html %} -->
-<!-- {% endfor %} -->
