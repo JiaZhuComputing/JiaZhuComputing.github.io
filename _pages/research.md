@@ -20,4 +20,4 @@ As a computing education researcher, I utilize a broad range of quantitative, qu
 ### Computational Methods in Engineering and Computing Education Research
  * Utilizing Web Scraping to inform pedagogical practices in computing education
  * Applying natural language processing techniques to explore hidden expectations in postdoctoral job postings
- * Employs a bibliometric NLP approach to evaluate publication keywords in computer science education
+ * Employing a bibliometric NLP approach to evaluate publication keywords in computer science education
