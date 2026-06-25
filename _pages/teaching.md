@@ -17,4 +17,7 @@ Rooted in pragmatism and social constructivism, my teaching empowers students wi
 
 ### Assistant Teaching Professor at Northeastern University, Khoury College of Computer Sciences
 - CS5001 Intensive Foundations of Computer Science (Fall 2025)
+- CS5004 Object-Oriented Design (Spring 2026)
 - CS5100 Graduate Foundations of AI (Fall 2025)
+- CS5800 Algorithms(Spring 2026)
+- CS6120 Natural Language Processing (Spring 2026)
