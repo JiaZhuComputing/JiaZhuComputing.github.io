@@ -14,6 +14,8 @@ I received my Ph.D. in Computer Science with a research focus on computing educa
 
 News
 ------
+- ***September 2026***: &nbsp;🎉 I am going to [CMD-IT/ACM TAPIA 2026 conference](https://tapiaconference.cmd-it.org/?https%3A%2F%2Ftapiaconference_cmd-it_org%2F&gad_source=1&gad_campaignid=19430410945&gbraid=0AAAAAo3p6NRNG7z-vhGUBIWy731bZCU2y&gclid=CjwKCAjw_eLVBhBEEiwAeaYZfMJbePEehq4F9p96gzlhXqlVB326_svYC6JnI6X-4klersF1fHTJ3BoCIxoQAvD_BwE) in Atlanta, GA. 
+- ***August 2026***: &nbsp;🎉 I am teaching two new courses in Fall 2026 for the graduate program in computer science at Khoury Miami. Stay tuned!
 - ***January 2026***: &nbsp;🎉 I am teaching three new courses in Spring 2026 for the graduate program in computer science at Khoury Miami. Stay tuned!
 - ***July 2025***: 🎉 I will be joining the Khoury College of Computer Sciences at Northeastern University's Miami campus as an Assistant Teaching Professor beginning Fall 2025.
 - ***Feburary 2025***: &nbsp;🎉 I presented our project "[Going National: Exploring the Employability and Salary Insights from Bachelor of Arts and Bachelor of Science in Computer Science Degrees for Broadening Participation](https://sigcse2025.sigcse.org/details/sigcse-ts-2025-lightning-talks/16/Going-National-Exploring-the-Employability-and-Salary-Insights-from-Bachelor-of-Arts)" at ACM SIGCSE conference in Pittsburgh, PA.
